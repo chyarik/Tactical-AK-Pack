@@ -1,0 +1,1 @@
+The core config is provided as it is. Please note that some of the comment or values may be outdated.
